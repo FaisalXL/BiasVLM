@@ -3,6 +3,7 @@ Exploring CLIPs weakness in understanding numeracy, negation, attributes and spa
 Mitigating Affirmation and Confirmation Bias in Vision-Language Models
 
 Authors: Faisal ,Pranay Obla Anandbabu, Jacob Brewer
+
 Affiliation: University of Southern California (USC)
 
 📌 Overview
